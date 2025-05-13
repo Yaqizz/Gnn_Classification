@@ -1,6 +1,6 @@
 # Graph Neural Networks for Graph and Node Classification
 
-**PyTorch + DGL | Feb 2025**
+**PyTorch + DGL**
 
 This project implements Graph Convolutional Networks (GCNs) for both graph and node classification using heterogeneous and synthetic graph datasets.
 
